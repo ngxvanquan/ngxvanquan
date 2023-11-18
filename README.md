@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngxvanquan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ngxvanquan)
+
 <!--
 **ngxvanquan/ngxvanquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
