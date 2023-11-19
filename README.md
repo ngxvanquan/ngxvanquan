@@ -6,6 +6,7 @@
 # 💻Language
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
+# 🌱 I’m Currently Learning In [F8 fullstack.edu.vn](https://fullstack.edu.vn/)
 
 # 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ngxvanquan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
