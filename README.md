@@ -11,14 +11,8 @@
 ## 🌱 I’m Currently Learning In [F8 fullstack.edu.vn](https://fullstack.edu.vn/)
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ngxvanquan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ngxvanquan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxvanquan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngxvanquan&theme=highcontrast&border_radius=6&card_width=512&border=EB5454&background=45%2C52D8EB%2C367AEB&stroke=EB5454)](https://git.io/streak-stats)
 
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ngxvanquan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
 **ngxvanquan/ngxvanquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
