@@ -11,7 +11,11 @@
 ## 🌱 I’m Currently Learning In [F8 fullstack.edu.vn](https://fullstack.edu.vn/)
 
 ## 📊GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ngxvanquan&theme=highcontrast&border_radius=6&card_width=512&border=EB5454&background=45%2C52D8EB%2C367AEB&stroke=EB5454)](https://git.io/streak-stats)
+![ngxvanquan's Stats](https://github-readme-stats.vercel.app/api?username=ngxvanquan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ngxvanquan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngxvanquan&theme=vue-dark&hide_border=true)
+![ngxvanquan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxvanquan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+### ⚡ Fun fact: i think i funny :)
 
 
 <!--
