@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngxvanquan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ngxvanquan)
 
 ## 💻Language
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,nodejs,react,vscode,arduino,postman,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,nodejs,react,vscode,arduino,postman,linux,c)](https://skillicons.dev)
 
 ## 🌱 I’m Currently Learning In [F8 fullstack.edu.vn](https://fullstack.edu.vn/)
 
