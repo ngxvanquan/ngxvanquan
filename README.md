@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a just fool Developer 🥵</h1>
+<h1 align="center">Hi there 👋, I'm a just fools Developer 🥵</h1>
 
 ![2](https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e4735jzfzarwjmztqftxleqt83pl90s4d8zlgh9xsu7&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
 
